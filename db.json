@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "0935",
+      "text": "go to school",
+      "day": "monday",
+      "reminder": true
+    },
+    {
+      "id": "285f",
+      "text": "garbage out",
+      "day": "friday",
+      "reminder": false
+    }
+  ]
+}
